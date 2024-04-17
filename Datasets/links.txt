@@ -1,3 +1,5 @@
-ner.csv 
-https://www.kaggle.com/datasets/naseralqaydeh/named-entity-recognition-ner-corpus
+NER Dataset.csv 
+https://www.kaggle.com/datasets/debasisdotcom/name-entity-recognition-ner-dataset
 
+
+https://huggingface.co/datasets/DFKI-SLT/cross_ner
