@@ -1,0 +1,3 @@
+ner.csv 
+https://www.kaggle.com/datasets/naseralqaydeh/named-entity-recognition-ner-corpus
+
