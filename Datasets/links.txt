@@ -1,5 +1,6 @@
 NER Dataset.csv 
 https://www.kaggle.com/datasets/debasisdotcom/name-entity-recognition-ner-dataset
 
-
 https://huggingface.co/datasets/DFKI-SLT/cross_ner
+
+https://www.kaggle.com/datasets/rmisra/news-category-dataset?resource=download
