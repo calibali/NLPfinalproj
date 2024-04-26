@@ -3,4 +3,6 @@ https://www.kaggle.com/datasets/debasisdotcom/name-entity-recognition-ner-datase
 
 https://huggingface.co/datasets/DFKI-SLT/cross_ner
 
-https://www.kaggle.com/datasets/rmisra/news-category-dataset?resource=download
+https://www.kaggle.com/datasets/rmisra/news-category-dataset
+
+https://huggingface.co/datasets/conll2003
